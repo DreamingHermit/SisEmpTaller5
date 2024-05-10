@@ -13,6 +13,7 @@ framework:
     - name: sap.ushell
     - name: sap.f
     - name: sap.ui.comp
+    - name: sap.ui.table
     - name: sap.ui.generic.app
     - name: sap.suite.ui.generic.template
     - name: sap.collaboration

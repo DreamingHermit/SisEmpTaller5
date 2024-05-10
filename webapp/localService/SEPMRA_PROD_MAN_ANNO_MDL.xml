@@ -123,7 +123,7 @@
                                     <PropertyValue Property="uri" Path="MobilePhoneNumber"/>
                                 </Record>
                                 <Record>
-                                    <PropertyValue Property="type" EnumMember="Communication.PhoneType/preferred Communication.PhoneType/work"/>
+                                    <PropertyValue Property="type" EnumMember="Communication.PhoneType/work Communication.PhoneType/preferred"/>
                                     <PropertyValue Property="uri" Path="PhoneNumber"/>
                                 </Record>
                             </Collection>
@@ -131,7 +131,7 @@
                         <PropertyValue Property="email">
                             <Collection>
                                 <Record>
-                                    <PropertyValue Property="type" EnumMember="Communication.ContactInformationType/work Communication.ContactInformationType/preferred"/>
+                                    <PropertyValue Property="type" EnumMember="Communication.ContactInformationType/preferred Communication.ContactInformationType/work"/>
                                     <PropertyValue Property="address" Path="EmailAddress"/>
                                 </Record>
                             </Collection>
